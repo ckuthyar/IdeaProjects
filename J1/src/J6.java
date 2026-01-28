@@ -1,3 +1,13 @@
 public class J6 {
-    public static void main(String[])
+    public static void main(String[] args){
+        System.out.println("Mathematical Tables");
+        String s1="";
+        for(int j=3;j<21;j++){
+            for(int i=1;i<11;i++){
+                s1=s1+j+"*"+i+"="+(j*i)+"\n";
+            }
+            s1=s1+"\n";
+        }
+        System.out.println(s1);
+    }
 }
