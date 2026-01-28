@@ -1,0 +1,3 @@
+NDLS:New Delhi Railway Station
+MAQ:Mangalore Central
+MAJN:Mangalore Junction
