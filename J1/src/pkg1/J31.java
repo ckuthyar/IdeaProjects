@@ -1,8 +1,7 @@
 package pkg1;
 
 public class J31 {
-    public static void main(String[]args){
-        System.out.println("School Clock angle");
+    public static void getAngle(){
         String time1="";
         double angle1=0.0;
         for(int j=0;j<12;j++){
@@ -13,6 +12,11 @@ public class J31 {
             }
             System.out.println();
         }
+    }
+    public static void main(String[]args){
+        System.out.println("School Clock angle");
+        getAngle();
+
     }
 }
 
