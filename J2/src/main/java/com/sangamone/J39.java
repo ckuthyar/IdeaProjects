@@ -16,5 +16,9 @@ public class J39 {
         MyCar c4 = new MyCar(2024, "Maruti Celerio");
 
         System.out.println(c1.modelName + " was purchased in "+c1.modelYear);
+        System.out.println(c2.modelName + " was purchased in "+c2.modelYear);
+        System.out.println(c3.modelName + " was purchased in "+c3.modelYear);
+        System.out.println(c3.modelName + " was purchased in "+c3.modelYear);
+
     }
 }
