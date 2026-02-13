@@ -15,7 +15,5 @@ public class J40 {
 
         System.out.println(v1.modelName+ " was purchased in "+v1.modelYear);
         System.out.println(v2.modelName+ " was purchased in "+v2.modelYear);
-
-
     }
 }
